@@ -1,4 +1,0 @@
-# Facebook
-
-video\-*\.xx\.fbcdn\.net
-*video*\.xx\.fbcdn\.net
