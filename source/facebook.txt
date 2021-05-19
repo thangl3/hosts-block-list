@@ -1,4 +1,4 @@
 # Facebook
 
-0.0.0.0 video\-*\.xx\.fbcdn\.net
-0.0.0.0 *video*\.xx\.fbcdn\.net
+video\-*\.xx\.fbcdn\.net
+*video*\.xx\.fbcdn\.net

@@ -4,13 +4,7 @@
 0.0.0.0 www.tiktokcdn.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 musical.ly
-0.0.0.0 *\.tiktokcdn\.com
-0.0.0.0 *\.tiktokcdn\.com\.wsdvs\.com
-0.0.0.0 *\.musical\.ly
-0.0.0.0 *\.tiktok\.com
-0.0.0.0 *\.tiktokv\.com
 0.0.0.0 tiktokcdn-com.akamaized.net
-0.0.0.0 *\-tiktokcdn\-com\.akamaized\.net
 0.0.0.0 abtest-sg-tiktok.byteoversea.com
 0.0.0.0 abtest-sg.byteoversea.com
 0.0.0.0 abtest-va-tiktok.byteoversea.com
@@ -960,3 +954,10 @@
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog.tiktokv.com
+
+*\.tiktokcdn\.com
+*\.tiktokcdn\.com\.wsdvs\.com
+*\.musical\.ly
+*\.tiktok\.com
+*\.tiktokv\.com
+*\-tiktokcdn\-com\.akamaized\.net
