@@ -10,7 +10,7 @@
 0.0.0.0 *\.tiktok\.com
 0.0.0.0 *\.tiktokv\.com
 0.0.0.0 tiktokcdn-com.akamaized.net
-0.0.0.0 *\-tiktokcdn\-com\.akamaized.net
+0.0.0.0 *\-tiktokcdn\-com\.akamaized\.net
 0.0.0.0 abtest-sg-tiktok.byteoversea.com
 0.0.0.0 abtest-sg.byteoversea.com
 0.0.0.0 abtest-va-tiktok.byteoversea.com
@@ -362,7 +362,6 @@
 0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 p16-sg.muscdn.com
 0.0.0.0 p16-tcscdn.byteoversea.com
-0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 p16-va-tiktok.ibyteimg.com
 0.0.0.0 p16.muscdn.com
 0.0.0.0 quic-awsbr.byteoversea.com
@@ -477,7 +476,6 @@
 0.0.0.0 v16-dy.byteoversea.com
 0.0.0.0 v16-mcheckout.muscdn.com
 0.0.0.0 v16-tcscdn.byteoversea.com
-0.0.0.0 v16-tiktokcdn-com.akamaized.net
 0.0.0.0 v16-up.tiktokv.com
 0.0.0.0 v16-vcheckout.muscdn.com
 0.0.0.0 v16.byteoversea.com
@@ -856,7 +854,6 @@
 0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 p16-sg.muscdn.com
 0.0.0.0 p16-tcscdn.byteoversea.com
-0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 p16-va-tiktok.ibyteimg.com
 0.0.0.0 p16.muscdn.com
 0.0.0.0 res01.musical.ly
@@ -918,7 +915,6 @@
 0.0.0.0 v16-dy.byteoversea.com
 0.0.0.0 v16-mcheckout.muscdn.com
 0.0.0.0 v16-tcscdn.byteoversea.com
-0.0.0.0 v16-tiktokcdn-com.akamaized.net
 0.0.0.0 v16-up.tiktokv.com
 0.0.0.0 v16-vcheckout.muscdn.com
 0.0.0.0 v16.byteoversea.com
